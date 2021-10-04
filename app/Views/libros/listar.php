@@ -1,8 +1,4 @@
-<?php
-
-?>
-
-<!--<?php echo $cabecera ?>
+<?php echo $cabecera ?>
 <a href="<?= base_url('crear')?>">Crear</a>
 <div class="container">
 	<table class="table">
@@ -28,4 +24,4 @@
 		</tbody>
 	</table>
 </div>
-<?php echo $pie ?>-->
+<?php echo $pie ?>
